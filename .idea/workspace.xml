@@ -2,9 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5cb9deed-6665-460f-b13a-d5986b3f6c91" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/improve-pod/postgres-pod.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/improve-pod/redis-pod.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/improve-pod/result-app-pod.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/improve-pod/votting-app-pod.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/improve-pod/working-app-pod.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pods/postgres-pod.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pods/redis-pod.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pods/result-app-pod.yml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pods/result-app-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/pods/result-app-service.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pods/votting-app-pod.yml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pods/votting-app-service.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pods/votting-app-service.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pods/working-app-pod.yml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +37,9 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\subash\PycharmProjects\devops\improve-pod" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\subash\PycharmProjects\devops\practise" />
     </key>
